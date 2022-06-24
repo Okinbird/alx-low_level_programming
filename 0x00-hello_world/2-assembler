@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S hello.c -s hello.s
+gcc -S -masm=intel $CFILE
