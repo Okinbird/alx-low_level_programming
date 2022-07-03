@@ -2,9 +2,9 @@
 
 #   0. Positive anything is better than negative nothing
 
-    This program will assign a random number to the variable `n` each time it is executed. Complete the source code in order to print w    hether the number stored in the variable n is positive or negative.
+    This program will assign a random number to the variable n each time it is executed. Complete the source code in or    der to print whether the number stored in the variable n is positive or negative.
     
-    * You can find the source code [here](https://alx-intranet.hbtn.io/rltoken/rrqNDWjrCWdARnWFLPExPw)
+    * You can find the source code here:https://alx-intranet.hbtn.io/rltoken/rrqNDWjrCWdARnWFLPExPw
     * The variable n will store a different value every time you will run this program
     * You don’t have to understand what rand, srand, RAND_MAX do. Please do not touch this code
     * The output of the program should be:
