@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/*
+/**
  * File: main.h
  * Auth: Eyebiokin Olayinka
  * Desc: Header file containing declarations for all functions
