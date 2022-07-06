@@ -17,11 +17,11 @@ int main(void)
         int i;
 
         i = 98;
-	        positive_or_negative(i);
+	positive_or_negative(i);
 
         return (0);
-	}
-	carrie@ubuntu:/debugging$
+}
+carrie@ubuntu:/debugging$
 ```
 
 ```
@@ -75,15 +75,15 @@ int main(void)
         i = 0;
 
         while (i < 10)
-	        {
-		                putchar(i);
-				        }
+	{
+		putchar(i);
+	}
 
         printf("Infinite loop avoided! \\o/\n");
 
         return (0);
-	}
-	carrie@ubuntu:/debugging$
+}
+carrie@ubuntu:/debugging$
 ```
 
 Your output should look like this:
@@ -114,19 +114,19 @@ carrie@ubuntu:/debugging$ cat 2-main.c
 int main(void)
 {
         int a, b, c;
-	        int largest;
+	int largest;
 
         a = 972;
-	        b = -98;
-		        c = 0;
+	b = -98;
+	c = 0;
 
         largest = largest_number(a, b, c);
 
         printf("%d is the largest number\n", largest);
 
         return (0);
-	}
-	carrie@ubuntu:/debugging$
+}
+carrie@ubuntu:/debugging$
 ```
 
 ```
@@ -194,12 +194,12 @@ carrie@ubuntu:/debugging$ cat 3-main_a.c
 int main(void)
 {
     int month;
-        int day;
-	    int year;
+    int day;
+    int year;
 
     month = 4;
-        day = 01;
-	    year = 1997;
+    day = 01;
+    year = 1997;
 
     printf("Date: %02d/%02d/%04d\n", month, day, year);
 
@@ -208,7 +208,7 @@ int main(void)
     print_remaining_days(month, day, year);
 
     return (0);
-    }
+}
 
 carrie@ubuntu:/debugging$
 ```
