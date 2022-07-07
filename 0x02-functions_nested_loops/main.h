@@ -4,7 +4,7 @@
 /*
  * File: main.h
  * Auth: Eyebiokin Olayinka
- * Desc: Header file containing declarations for all functions
+ * Desc: Header file containing prototypes for all functions
  *       used in the 0x02-functions_nested_loops directory.
  */
 
