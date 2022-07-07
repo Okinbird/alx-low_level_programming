@@ -24,7 +24,7 @@ if ((prime % 2) == 0)
 prime /= 2;
 continue;
 }
-for (div = 3; div < (prime / 2); div +=2)
+for (div = 3; div < (prime / 2); div += 2)
 {
 if ((prime % div) == 0)
 prime /= div;
