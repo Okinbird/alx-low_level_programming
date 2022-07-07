@@ -9,7 +9,7 @@
  * main - Prints the numbers from 1-100,
  *        followed by a new line. But for multiples of three,
  *        Fizz is printed instead of the number, for multiples of five,
- *        Buzz is printed, and for multiples of both three and five, 
+ *        Buzz is printed, and for multiples of both three and five,
  *        FizzBuzz is printed.
  *
  * Return: Always 0.
