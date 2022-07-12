@@ -4,6 +4,8 @@
  */
 
 #include "main.h"
+#include <stdio.h>
+#define LEN 4
 
 /**
  * _strcpy - Copies a string pointed to by @str, including the
