@@ -4,7 +4,6 @@
  */
 
 #include "main.h"
-#include <stdio.h>
 
 /**
  * _strcpy - Copies a string pointed to by @str, including the
@@ -27,6 +26,6 @@ dest[index] = src[index];
 index++;
 
 }
-return (*dest);
+return (dest);
 
 }
