@@ -17,7 +17,7 @@
 char *_strcpy(char *dest, char *src)
 {
 
-int index = 98;
+int index = 0;
 
 while (src[index])
 {
