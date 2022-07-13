@@ -27,6 +27,6 @@ dest[index] = src[index];
 index++;
 
 }
-return (dest\0);
+return (dest);
 
 }
