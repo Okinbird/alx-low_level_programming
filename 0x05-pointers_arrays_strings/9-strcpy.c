@@ -18,7 +18,6 @@ char *_strcpy(char *dest, char *src)
 {
 
 int index = 0;
-char dest = 0;
 
 while (src[index])
 
