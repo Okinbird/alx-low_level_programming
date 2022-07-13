@@ -17,13 +17,13 @@
 char *_strcpy(char *dest, char *src)
 {
 
-int i;
+int index;
 
-for (i = 0; src[i] != '\0'; i++)
+for (index = 0; src[index] != '\0'; index++)
 {
-dest[i] = src[i];
+dest[index] = src[index];
 }
-dest[i] = '\0';
+dest[index] = '\0';
 
 return (dest);
 
