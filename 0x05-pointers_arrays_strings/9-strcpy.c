@@ -4,7 +4,6 @@
  */
 
 #include "main.h"
-#define LEN 4
 
 /**
  * _strcpy - Copies a string pointed to by @str, including the
@@ -19,7 +18,7 @@ char *_strcpy(char *dest, char *src)
 {
 
 int index = 0;
-char *dest[LEN + 1] = {0};
+char dest = '\0';
 
 while (src[index])
 
