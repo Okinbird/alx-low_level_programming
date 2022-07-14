@@ -7,7 +7,7 @@
 #include <string.h>
 
 /**
- * strcat - Concatrates two strings. overwriting the terminating
+ * _strcat - Concatrates two strings. overwriting the terminating
  *          null byte, at the end of @dest, and adds a terminating null byte.
  * @dest: The string to be concatenated upon.
  * @src: The string to be appended to @dest.
