@@ -12,9 +12,9 @@
  * _strncat - Concatenates two strings using at most
  *            n bytes from srn.
  * @dest: The string to be appended upon.
- * @srn:  The string to appended to dest.
+ * @src:  The string to appended to dest.
  * @n:    The number of bytes from srn to be appended to dest.
- * 
+ *
  * Return: A pointer to the resulting string dest.
  */
 
