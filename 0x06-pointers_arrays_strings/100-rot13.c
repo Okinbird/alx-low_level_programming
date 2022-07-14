@@ -23,7 +23,7 @@ for (i = 0; s[i] != '\0'; i++)
 if ((s[i] > 64 && s[i] < 91) || (s[i] > 96 && s[i] < 123))
 {
 s[i] = (s[i] - 65 > 25) ?
-storen[s[i] - 'a'] : storem[s[i] - 'A'];
+storen[s[i] - 97] : storem[s[i] - 65];
 }
 }
 return (s);
