@@ -6,7 +6,7 @@
 #include "main.h"
 
 /**
- * rev_array - Reverese the content of an array of integers.
+ * reverse_array - Reverese the content of an array of integers.
  *@n:   The number of elements of the array.
  *@a:   The array of integers to be reversed.
  */
