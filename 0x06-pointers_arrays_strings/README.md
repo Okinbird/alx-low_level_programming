@@ -87,6 +87,7 @@ Write a function that prints an integer.
 
 #  10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
 ![Magic](http://i.imgur.com/hY9jsU2.gif)
+
 Add one line to [this code](https://github.com/holbertonschool/make_magic_happen/blob/master/magic.c), so that the program prints `a[2] = 98`, followed by a new line.
 
 *  You are not allowed to use the variable `a` in your new line of code
