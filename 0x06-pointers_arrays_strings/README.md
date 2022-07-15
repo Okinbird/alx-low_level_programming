@@ -86,7 +86,7 @@ Write a function that prints an integer.
 *  You are not allowed to hard-code special values
 
 #  10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
-![Magic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/21b4fc5c1b5df84e6ae4fe8807aa359d929e748a.gif)
+![Magic](http://i.imgur.com/hY9jsU2.gif)
 Add one line to [this code](https://github.com/holbertonschool/make_magic_happen/blob/master/magic.c), so that the program prints `a[2] = 98`, followed by a new line.
 
 *  You are not allowed to use the variable `a` in your new line of code
