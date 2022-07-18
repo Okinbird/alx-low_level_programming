@@ -2,7 +2,7 @@
 
 /**
  * _strstr - Locates a substring. Finds the first occurrence of the substring
- *           @needle in the string @haystack. 
+ *           @needle in the string @haystack.
  *           The terminating null bytes are not compared.
  * @needle:  The substring to be located
  * @haystack:  The string to be searched
