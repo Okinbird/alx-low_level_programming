@@ -6,7 +6,7 @@
  * @c:  The character to be located
  *
  * Return:  A pointer to the occurence of the character @c
- *          in the string @s, or 
+ *          in the string @s, or
  *          NULL if the character @c is not found
  */
 char *_strchr(char *s, char c)
