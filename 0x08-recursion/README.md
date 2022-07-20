@@ -50,7 +50,7 @@ FYI: The standard library provides a different function: `sqrt`. Run `man sqrt` 
 
 #  6. Inception. Is it possible?
 
-Write a function that returns `1` if the input integer is a `prime number`, otherwise return `0`.
+Write a function that returns `1` if the input integer is a [prime number](https://alx-intranet.hbtn.io/rltoken/bjG_8Gu-_0rwbYA_tAv2Yw), otherwise return `0`.
 
 Prototype: `int is_prime_number(int n);`
 
