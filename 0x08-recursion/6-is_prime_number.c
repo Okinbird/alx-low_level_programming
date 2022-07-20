@@ -19,7 +19,7 @@ return (is_divisible(num, div + 1));
 
 /**
  * is_prime_number - Checks if a number is prime.
- * @n  The number to be checked.
+ * @n:  The number to be checked.
  *
  * Return: If the integer is not prime - 0.
  *         If the number is prime - 1.
