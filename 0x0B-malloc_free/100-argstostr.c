@@ -3,7 +3,7 @@
 
 /**
  * argstostr - Concatenates all arguments of the program.
- *             Each argument should be followed by a new line in the new string.
+ *             Each argument should be followed by a new line.
  * @ac:  The number of arguments passed to the program
  * @av:  An array of pointers to the arguments.
  *
@@ -23,7 +23,7 @@ n++;
 n++;
 }
 n++;
-str = malloc(n * sizeof(char));
+str = malloc(n *sizeof(char));
 if (str == NULL)
 return (NULL);
 for (i = 0; i < ac; i++)
