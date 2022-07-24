@@ -31,7 +31,7 @@ for (i = 0; s1[i]; i++)
 c[j++] = s1[i];
 
 for (i = 0; s2[i]; i++)
-c[j++] =s2[i];
+c[j++] = s2[i];
 
 return (c);
 }
