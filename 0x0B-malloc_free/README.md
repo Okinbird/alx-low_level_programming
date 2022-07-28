@@ -48,10 +48,10 @@ Write a function that frees a 2 dimensional grid previously created by your `all
 
 Write a function that concatenates all the arguments of your program.
 
-Prototype: `char *argstostr(int ac, char **av);`
-Returns `NULL` if `ac == 0` or `av == NULL`
-Returns a pointer to a new string, or `NULL` if it fails
-Each argument should be followed by a `\n` in the new string
+*  Prototype: `char *argstostr(int ac, char **av);`
+*  Returns `NULL` if `ac == 0` or `av == NULL`
+*  Returns a pointer to a new string, or `NULL` if it fails
+*  Each argument should be followed by a `\n` in the new string
 
 #  6. I will show you how great I am
 
