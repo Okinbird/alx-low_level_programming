@@ -11,7 +11,7 @@
 void _print(char *str, int l)
 {
 int i, j;
-i= j = 0;
+i = j = 0;
 while (i < l)
 {
 if (str[i] != '0')
@@ -24,7 +24,7 @@ _putchar('\n');
 free(str);
 }
 
-  
+
 /**
  * mul - Multiplies a char with a string and places the answer into dest
  * @n:  The char to multiply
@@ -100,7 +100,7 @@ str[i] = '\0';
  * @argc: The number of arguments passed to the program.
  * @argv: An array of pointers to the arguments
  *
- * Description: If the number of arguments is incorrect or one number 
+ * Description: If the number of arguments is incorrect or one number
  *              contains non-digit, the function exits with a status of 98.
  * Return: Always 0.
  */
@@ -121,7 +121,7 @@ for (l1 = 0; argv[1][l1]; l1++)
 for (l2 = 0; argv[2][l2]; l2++)
 ;
 ln = l1 + l2 + 1;
-a = malloc(ln * sizeof(char));
+a = malloc(ln *sizeof(char));
 if (a == NULL)
 {
 for (ti = 0; e[ti]; ti++)
