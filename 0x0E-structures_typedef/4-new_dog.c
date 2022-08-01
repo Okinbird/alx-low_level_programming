@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * _strlen(char *str);
+ * _strlen - Finds the length of a string
  * @str: The string to be measured
  *
  * Return: The length of the string
@@ -12,11 +12,11 @@ int _strlen(char *str)
 int len = 0;
 while (*str++)
 len++;
-return(len);
+return (len);
 }
 
 /**
- * _strcopy - Copies a string pointed to by src, including the 
+ * _strcopy - Copies a string pointed to by src, including the
  *            terminating null byte, to a buffer pointed to by dest.
  * @dest:  The buffer storing the string copied
  * @src:  The source of the string
