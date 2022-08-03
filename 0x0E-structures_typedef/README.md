@@ -1,7 +1,7 @@
 ## 0x0E. C - Structures, typedef
 
 #  0. Poppy
-![Poppy](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/3b534d73d79949ef8b7535d462014518256953f2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220803T132055Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0ee9ac1828a8b6403fdc4538e95aa278789f05cd78626d0ca18298a17c59cc2b)
+![Poppy](https://drive.google.com/file/d/1qBLDTPNTIYEuwY__rZ3ajOYzKTyiipTj/view?usp=sharing)
 
 Define a new type struct dog with the following elements:
 
