@@ -1,7 +1,7 @@
 ## 0x0E. C - Structures, typedef
 
 #  0. Poppy
-![Poppy](https://github.com/Okinbird/Okinbird/blob/49d02281d08daf55fcc1f98601b7923efe91ecfb/Poppy.jpg)
+![Poppy](https://github.com/Okinbird/Okinbird/blob/49d02281d08daf55fcc1f98601b7923efe91ecfb/Poppy.jpg style="width: 450px")
 
 Define a new type struct dog with the following elements:
 
