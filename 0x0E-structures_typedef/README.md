@@ -28,12 +28,12 @@ Write a function that prints a `struct dog`
 
 #  3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
 
-![Dog_t](https://github.com/Okinbird/Okinbird/blob/master/Dog_t.jpg)
+<img src="https://github.com/Okinbird/Okinbird/blob/master/Dog_t.jpg" width="450" height="400">
 
 Define a new type `dog_t` as a new name for the type `struct dog`.
 
 #  4. A door is what a dog is perpetually on the wrong side of
-![NewDog](https://github.com/Okinbird/Okinbird/blob/master/NewDog.jpg)
+<img src="https://github.com/Okinbird/Okinbird/blob/master/NewDog.jpg" width="450" height="400">
 
 Write a function that creates a new dog.
 
@@ -42,7 +42,7 @@ Write a function that creates a new dog.
 *  Return `NULL` if the function fails
 
 #  5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
-![Freedog](https://github.com/Okinbird/Okinbird/blob/master/Freedog.jpg)
+<img src="https://github.com/Okinbird/Okinbird/blob/master/Freedog.jpg" width="450" height="400">
 
 Write a function that frees dogs.
 
