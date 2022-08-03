@@ -2,7 +2,6 @@
 
 #  0. Poppy
 <img src="https://github.com/Okinbird/Okinbird/blob/49d02281d08daf55fcc1f98601b7923efe91ecfb/Poppy.jpg" width="450" height="400">
-![Poppy](https://github.com/Okinbird/Okinbird/blob/49d02281d08daf55fcc1f98601b7923efe91ecfb/Poppy.jpg" width="450")
 
 Define a new type struct dog with the following elements:
 
@@ -17,7 +16,7 @@ Write a function that initialize a variable of type `struct dog`
 *  Prototype: `void init_dog(struct dog *d, char *name, float age, char *owner);`
 
 #  2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad
-![Dog](https://github.com/Okinbird/Okinbird/blob/master/Dog.jpg)
+<img src="https://github.com/Okinbird/Okinbird/blob/master/Dog.jpg" width="450" height="400")
 
 Write a function that prints a `struct dog`
 
