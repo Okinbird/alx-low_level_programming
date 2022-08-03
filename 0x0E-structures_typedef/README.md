@@ -1,6 +1,7 @@
 ## 0x0E. C - Structures, typedef
 
 #  0. Poppy
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/Okinbird/Okinbird/blob/49d02281d08daf55fcc1f98601b7923efe91ecfb/Poppy.jpg" width="200" height="400" />
 ![Poppy](https://github.com/Okinbird/Okinbird/blob/49d02281d08daf55fcc1f98601b7923efe91ecfb/Poppy.jpg | width=450)
 
 Define a new type struct dog with the following elements:
