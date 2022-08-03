@@ -1,7 +1,7 @@
 ## 0x0E. C - Structures, typedef
 
 #  0. Poppy
-![Poppy](https://drive.google.com/file/d/1qBLDTPNTIYEuwY__rZ3ajOYzKTyiipTj/view?usp=sharing)
+![Poppy](https://www.pexels.com/photo/brown-and-white-short-coated-puppy-1805164/)
 
 Define a new type struct dog with the following elements:
 
