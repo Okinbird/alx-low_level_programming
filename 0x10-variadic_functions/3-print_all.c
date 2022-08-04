@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * _printchar - Print a char
+ * print_char - Print a char
  * @list: List of char to print
  */
 void print_char(va_list list)
@@ -12,7 +12,7 @@ printf("%c", va_arg(list, int));
 }
 
 /**
- * _printint - Print an int
+ * print_int - Print an int
  * @list: List of int to print
  */
 void print_int(va_list list)
@@ -21,16 +21,16 @@ printf("%d", va_arg(list, int));
 }
 
 /**
- * _printfloat - Print a float
+ * print_float - Print a float
  * @list: List of float to print
  */
 void print_float(va_list list)
 {
-  printf("%f", va_arg(list, double));
+printf("%f", va_arg(list, double));
 }
 
 /**
- * _printstr - Print a string
+ * print_str - Print a string
  * @list:  List of string to print
  */
 void print_str(va_list list)
