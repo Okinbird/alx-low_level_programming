@@ -81,7 +81,7 @@ break;
 }
 j++;
 }
-i++
+i++;
 }
 va_end(list);
 printf("\n");
