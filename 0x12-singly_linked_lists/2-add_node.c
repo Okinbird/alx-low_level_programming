@@ -33,7 +33,7 @@ len++;
 new->str = dup;
 new->len = len;
 new->next = *head;
- 
+
 *head = new;
 
 return (new);
