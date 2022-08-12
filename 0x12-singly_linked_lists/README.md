@@ -47,7 +47,7 @@ Write a function that frees a `list_t` list.
 
 #  5. The Hare and the Tortoise
 
-![Race](https://i0.wp.com/www.slaphappylarry.com/wp-content/uploads/2020/05/Rogniat-1895-1970-from-the-1940-50s.-Fables-by-french-writer-22La-Fontaine22-1621-1695-7.jpg?resize=400%2C255&ssl=1)
+![Race](https://github.com/Okinbird/Okinbird/blob/master/race.jpg)
 
 Write a function that prints `You're beat! and yet, you must allow,\nI bore my house upon my back!\n` before the `main` function is executed.
 
