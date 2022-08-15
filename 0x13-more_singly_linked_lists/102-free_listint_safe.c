@@ -67,7 +67,8 @@ nodes = looped_listint_count(*h);
 
 if (nodes == 0)
 {
-for (; h != NULL && *h != NULL; nodes++){
+for (; h != NULL && *h != NULL; nodes++)
+{
 tmp = (*h)->next;
 free(*h);
 *h = tmp;
@@ -76,7 +77,8 @@ free(*h);
 
 else
 {
-for (index = 0; index < nodes; index++){
+for (index = 0; index < nodes; index++)
+{
 tmp = (*h)->next;
 free(*h);
 *h = tmp;
