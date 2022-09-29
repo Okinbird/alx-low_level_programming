@@ -1,2 +1,0 @@
-## shellhsh - Simple Shell
-

@@ -1,7 +1,0 @@
-.TH SHELLHSH 1 "August 2022" "ALX School" "0x15. C - Simple Shell"
-.SH NAME
-.B shellhsh\fR \- simple UNIX command interpreter
-.SH SYNOPSIS
-.B shellhsh\fR [\fIfilename\fR]
-.SH DESCRIPTION
-.B Shellhsh\fR is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
